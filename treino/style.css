@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(9, 163, 163);
+}
+h1{
+    color: rgb(149, 250, 7);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+p{
+    color: lime;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#download{
+    position: sticky;
+    right: 0px;
+    left: 41%;
+}
+#voltar{
+    position: sticky ;
+    right: 0px;
+    left: 48%;
+}

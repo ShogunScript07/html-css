@@ -1,0 +1,8 @@
+.img-area a img{
+    width: 100%;
+    transition: 1s;
+}
+.img-area a img:hover{
+    transform: scale(4);
+    cursor:pointer;
+}

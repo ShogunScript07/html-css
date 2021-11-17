@@ -1,0 +1,18 @@
+footer{
+    font-family: var(--font0);
+    background-color: var(--cor4);
+    text-align: center;
+    padding: 10px;
+}
+footer p{
+    color: var(--cor1);
+}
+footer strong{
+    font-family: var(--font2);
+    color: var(--cor0);
+    cursor: pointer;
+}
+footer a{
+    text-decoration: none;
+    color: var(--cor0);
+}

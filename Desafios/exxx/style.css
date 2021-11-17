@@ -1,0 +1,14 @@
+.img-area{
+    width: 300px;
+    height: 500px;
+    margin: 60px auto;
+    overflow: visible;
+}
+.img-area img{
+    width: 100%;
+    transition: 1s;
+}
+.img-area img:hover{
+    transform: scale(1.8);
+    cursor:pointer;
+}
